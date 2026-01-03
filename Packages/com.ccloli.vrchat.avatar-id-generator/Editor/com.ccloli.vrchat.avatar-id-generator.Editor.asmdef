@@ -1,0 +1,18 @@
+{
+  "name": "com.ccloli.vrchat.avatar-id-generator.Editor",
+  "references": [
+    "VRC.SDK3A",
+    "VRC.SDK3A.Editor",
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "com.ccloli.vrchat.avatar-id-generator"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

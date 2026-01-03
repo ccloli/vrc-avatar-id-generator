@@ -1,0 +1,18 @@
+{
+  "name": "com.ccloli.vrchat.avatar-id-generator",
+  "displayName": "Avatar ID Generator",
+  "version": "0.1.0",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.10.1"
+  },
+  "author": {
+    "name": "ccloli",
+    "email": "h@ccloli.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\ccloli\\Desktop\\Unity\\vrc-avatar-id-generator\\Packages\\com.ccloli.vrchat.avatar-id-generator"
+}
