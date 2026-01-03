@@ -1,1 +1,0 @@
-# com.ccloli.vrchat.avatar-id-generator by ccloli
