@@ -16,7 +16,7 @@ After install the package, navigate to `Tools` -> `Avatar ID Generator`, drag th
 
 ## Principle
 
-The newer SDK (>= 3.9.0) will request the server to create an avatar first, then assign the returned id to the Blueprint ID in Pipeline Manager.
+The newer SDK (>= 3.9.0) will request the server to create an avatar first, then assign the returned id to the Blueprint ID in Pipeline Manager. For details, see [the release note of 3.9.0](https://creators.vrchat.com/releases/release-3-9-0#about-avatar-id-assignments).
 
 So the tool is just requesting the API like the newer SDK, then get and set the id, then you're able to upload the new avatar.
 
