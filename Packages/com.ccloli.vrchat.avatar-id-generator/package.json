@@ -5,12 +5,12 @@
   "description": "Describe this Package",
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.avatars": "3.10.1"
+    "com.vrchat.avatars": ">=3.0.0"
   },
   "author": {
     "name": "ccloli",
-    "email": "h@ccloli.com",
-    "url": ""
+    "email": "8115912+ccloli@users.noreply.github.com",
+    "url": "https://github.com/ccloli"
   },
   "legacyFolders": {},
   "legacyFiles": {},
